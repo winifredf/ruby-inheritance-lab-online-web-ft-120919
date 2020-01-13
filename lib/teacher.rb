@@ -1,4 +1,5 @@
 require_relative "./user.rb"
+
 class Teacher < User
   
   KNOWLEDGE = ["a String is a type of data in Ruby",
